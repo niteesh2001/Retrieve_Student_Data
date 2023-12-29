@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\bin\Debug\Retrieve_Student_Data.exe.config
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\bin\Debug\Retrieve_Student_Data.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\bin\Debug\Retrieve_Student_Data.pdb
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\obj\Debug\Retrieve_Student_Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\obj\Debug\Retrieve_Student_Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\obj\Debug\Retrieve_Student_Data.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Retrieve_Student_Data\Retrieve_Student_Data\obj\Debug\Retrieve_Student_Data.pdb
